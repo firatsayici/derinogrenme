@@ -1,0 +1,2 @@
+# derinogrenme
+Derin Öğrenme Dersi
